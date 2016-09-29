@@ -1,0 +1,38 @@
+
+body {
+
+	    background:#565252;
+	    font-family: Georgia;
+	    width: 1200px;
+	    height: 1550px;
+	    margin-left: 20px;
+	    margin-right: auto;
+	}
+h1  {	
+	    color: white; 
+	    font-size: 45px;
+	    font-weight: 80;
+	    margin-left:20px;
+	    padding-top:20px;
+	}
+h2  {	
+	    color: white; 
+	    font-size: 35px;
+	    font-weight:100px;
+	    margin-left:20px;
+	    padding-top:20px;
+	}
+#sidebar
+	{
+	    background-color:#982323;
+	    width: 200px;
+	    height:900px;
+	    float: left;
+	}
+#maincolumn 
+	{
+	    background-color:#565252;
+	    height: 1900px;
+	    width: 750px;
+	    float: left;
+	}

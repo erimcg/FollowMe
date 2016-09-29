@@ -1,0 +1,10 @@
+.observation
+{
+    display:  none;
+}
+
+.excursion:hover
+{
+    cursor:  pointer;
+    color:  blue;
+}
